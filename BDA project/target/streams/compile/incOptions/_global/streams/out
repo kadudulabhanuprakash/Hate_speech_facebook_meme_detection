@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\BDA project\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\BDA project\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDSExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersistenceExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersistenceExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SalesRDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextGloveEmbedding$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransformLSTM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS_LSTM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImgSplit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextGloveEmbedding$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextGloveEmbedding$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SalesRDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransformLSTM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDSExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS_LSTM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TextGloveEmbedding.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImgSplit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\BDA project\target\scala-2.12\classes.bak[0m

@@ -1,0 +1,53 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\BDA project\target\scala-2.12\hatefulmemesfcm_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FastTextEmbeddingToHDFS$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FastTextEmbeddingToHDFS$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FastTextEmbeddingToHDFS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FastTextEmbeddingToHDFS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FastTextEmbeddingToHDFS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FCMPreprocessingToHDFS1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FCMPreprocessingToHDFS1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS_LSTM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FCMPreprocessingToHDFS_LSTM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FCMPreprocessingToHDFS_LSTM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\FCMPreprocessingToHDFS_LSTM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hatefulmemes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\hatefulmemes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hatefulmemes\TextGloveEmbedding$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\hatefulmemes\TextGloveEmbedding$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hatefulmemes\TextGloveEmbedding$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\hatefulmemes\TextGloveEmbedding$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hatefulmemes\TextGloveEmbedding$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\hatefulmemes\TextGloveEmbedding$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hatefulmemes\TextGloveEmbedding.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\hatefulmemes\TextGloveEmbedding.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImgSplit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\ImgSplit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImgSplit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\ImgSplit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\PCATransform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\PCATransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransformLSTM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\PCATransformLSTM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PCATransformLSTM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\PCATransformLSTM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersistenceExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\PersistenceExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersistenceExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\PersistenceExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDSExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\RDSExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDSExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\RDSExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SalesRDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\SalesRDD$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SalesRDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\BDA project\target\scala-2.12\classes\SalesRDD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

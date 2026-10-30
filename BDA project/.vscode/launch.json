@@ -1,0 +1,215 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "JuiceShopBill",
+      "mainClass": "JuiceShopBill",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "concatString",
+      "mainClass": "concatString",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ArrayMinMax",
+      "mainClass": "ArrayMinMax",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ReverseArray",
+      "mainClass": "ReverseArray",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "EvenOddCount",
+      "mainClass": "EvenOddCount",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "TemperatureTest",
+      "mainClass": "TemperatureTest",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "BankAccountTest",
+      "mainClass": "BankAccountTest",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Payroll",
+      "mainClass": "Payroll",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MatrixTest",
+      "mainClass": "MatrixTest",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SmartCampusSystem",
+      "mainClass": "SmartCampusSystem",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ConcurrencyTest",
+      "mainClass": "ConcurrencyTest",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "inset",
+      "mainClass": "inset",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "HigherOrderFunctionExample",
+      "mainClass": "HigherOrderFunctionExample",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "LogicalRemove",
+      "mainClass": "LogicalRemove",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "RemoveElementFromArray",
+      "mainClass": "RemoveElementFromArray",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Fact",
+      "mainClass": "Fact",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "fact1",
+      "mainClass": "fact1",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SumNatural",
+      "mainClass": "SumNatural",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Fibonacci",
+      "mainClass": "Fibonacci",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "GCD",
+      "mainClass": "GCD",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "PalindromeCheck",
+      "mainClass": "PalindromeCheck",
+      "buildTarget": "file:/C:/hello-world/?id=hello-world",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
